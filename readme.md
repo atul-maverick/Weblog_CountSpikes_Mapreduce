@@ -11,8 +11,11 @@ Input is a weblog stored in a tab-separated 3-column file. Each line represents 
 **Spike:** If the average time spent on a website per day has at least doubled two times continuously over three consecutive days then it is called a spike.
 
  # **Solution**
+ 
 **MapReduce Job 1:** Find average number of seconds users spent on each website, for each day.
+
 **MapReduce Job 2:** Identify the spikes in this data.
+
 **MapReduce Job 3:** Aggregate the counts to get number of spikes per website
 
 
