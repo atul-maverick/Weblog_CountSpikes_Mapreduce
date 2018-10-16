@@ -1,4 +1,4 @@
-# Hadoop Mapreduce Assignment 
+# Hadoop Mapreduce Assignment :tada:
 
 ### Problem Statement
 **Find the number of spikes per website based on the user interaction time, using Mapreduce**
